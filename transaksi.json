@@ -1518,5 +1518,13 @@
     "jumlah": 1,
     "total": 11000,
     "buyer": "6281335528***"
+  },
+  {
+    "waktu": 1779415052892,
+    "produk": "Pterodactyl node.js 2gb",
+    "harga": 2000,
+    "jumlah": 2,
+    "total": 4000,
+    "buyer": "6283161102***"
   }
 ]
