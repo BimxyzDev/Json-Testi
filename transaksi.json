@@ -1966,5 +1966,13 @@
     "jumlah": 1,
     "total": 2000,
     "buyer": "6285811234***"
+  },
+  {
+    "waktu": 1780326756320,
+    "produk": "Pterodactyl 4gb",
+    "harga": 4000,
+    "jumlah": 1,
+    "total": 4000,
+    "buyer": "6288989848***"
   }
 ]
