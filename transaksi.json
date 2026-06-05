@@ -2142,5 +2142,13 @@
     "jumlah": 1,
     "total": 4000,
     "buyer": "6285750516***"
+  },
+  {
+    "waktu": 1780624879347,
+    "produk": "upgrade reseller basic ke ultra",
+    "harga": 30000,
+    "jumlah": 1,
+    "total": 30000,
+    "buyer": "6285707955***"
   }
 ]
