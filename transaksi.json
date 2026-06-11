@@ -2446,5 +2446,13 @@
     "jumlah": 1,
     "total": 2000,
     "buyer": "***"
+  },
+  {
+    "waktu": 1781188357414,
+    "produk": "Pterodactyl 6 GB | Disk: 4 GB | CPU: 40%",
+    "harga": 5000,
+    "jumlah": 1,
+    "total": 5000,
+    "buyer": "6285150887***"
   }
 ]
