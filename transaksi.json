@@ -3167,5 +3167,13 @@
     "jumlah": 1,
     "total": 20000,
     "buyer": "62895635165***"
+  },
+  {
+    "waktu": 1783004709559,
+    "produk": "R2gb-D1gb-cpu20-nodejs",
+    "harga": 1750,
+    "jumlah": 1,
+    "total": 1750,
+    "buyer": "areas8380"
   }
 ]
