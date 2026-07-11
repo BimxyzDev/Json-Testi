@@ -3455,5 +3455,13 @@
     "jumlah": 1,
     "total": 15000,
     "buyer": "fanvj1106"
+  },
+  {
+    "waktu": 1783766105997,
+    "produk": "R1gb-D3gb-cpu50-nodejs",
+    "harga": 2250,
+    "jumlah": 1,
+    "total": 2250,
+    "buyer": "nicho1888"
   }
 ]
