@@ -4455,5 +4455,13 @@
     "jumlah": 1,
     "total": 6000,
     "buyer": "dolang8622"
+  },
+  {
+    "waktu": 1785280521608,
+    "produk": "R2gb-D2gb-cpu20-nodejs",
+    "harga": 2000,
+    "jumlah": 1,
+    "total": 2000,
+    "buyer": "ajang0503"
   }
 ]
