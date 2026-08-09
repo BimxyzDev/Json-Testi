@@ -5367,5 +5367,13 @@
     "jumlah": 1,
     "total": 2000,
     "buyer": "winbf2610"
+  },
+  {
+    "waktu": 1786251345370,
+    "produk": "R1gb-D1gb-cpu30-nodejs",
+    "harga": 1500,
+    "jumlah": 1,
+    "total": 1500,
+    "buyer": "nexusstatus2591"
   }
 ]
