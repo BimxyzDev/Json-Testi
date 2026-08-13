@@ -5639,5 +5639,13 @@
     "jumlah": 1,
     "total": 3000,
     "buyer": "kizen9234"
+  },
+  {
+    "waktu": 1786635562824,
+    "produk": "R2gb-D4gb-cpu40-nodejs",
+    "harga": 2550,
+    "jumlah": 1,
+    "total": 2550,
+    "buyer": "araim4976"
   }
 ]
