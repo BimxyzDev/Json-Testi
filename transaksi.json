@@ -6087,5 +6087,13 @@
     "jumlah": 1,
     "total": 10000,
     "buyer": "deni267174"
+  },
+  {
+    "waktu": 1788013231631,
+    "produk": "R10gb-D12gb-cpu100-nodejs",
+    "harga": 20000,
+    "jumlah": 1,
+    "total": 20000,
+    "buyer": "adrylg6449"
   }
 ]
