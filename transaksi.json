@@ -6359,5 +6359,13 @@
     "jumlah": 1,
     "total": 4500,
     "buyer": "faiss9630"
+  },
+  {
+    "waktu": 1788572856528,
+    "produk": "R2gb-D4gb-cpu40-nodejs-vip",
+    "harga": 9000,
+    "jumlah": 1,
+    "total": 9000,
+    "buyer": "alpin1719"
   }
 ]
