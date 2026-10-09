@@ -30,5 +30,13 @@
     "jumlah": 1,
     "total": 10000,
     "buyer": "fayierzx3069"
+  },
+  {
+    "waktu": 1791557387285,
+    "produk": "Paket A Basic",
+    "harga": 4500,
+    "jumlah": 1,
+    "total": 4500,
+    "buyer": "ditya0340"
   }
 ]
